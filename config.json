@@ -1,0 +1,17 @@
+{
+	"token": "TOKEN",
+	"prices": {
+		"minimum": 100.0,
+		"maximum": 30000.0
+	},
+	"payments": {
+		"cryptobot": {
+			"name": "💎 Crypto Bot",
+			"token": "",
+			"debug": true
+		},
+		"aaio": {
+			"name": "💳 Aaio"
+		}
+	}
+}
